@@ -1,0 +1,1 @@
+import{_ as s}from"./Posts-e43fed36.js";import{o as e,c as o,a as t,b as a}from"./index-17af02a4.js";const c={class:"blog"},_=a("h2",{class:"mt-12"},"Posts",-1),p={__name:"Blog",setup(r){return(n,m)=>(e(),o("div",c,[_,t(s)]))}};export{p as default};
